@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextFont">
+        <item name="android:fontFamily" parent="TextAppearance.AppCompat">sans-serif</item>
+    </style>
+
+    <style name="TextFont.Medium">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextFont.Medium.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

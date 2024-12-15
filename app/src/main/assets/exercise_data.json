@@ -1,0 +1,77 @@
+{
+  "version": 4,
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Push Up",
+      "instructions": "1. Start down on all fours with your hands just wider than your shoulders.\n\n2. Extend your legs so they form a straight line with your back.\n\n3. Lower yourself to the floor until your elbows are at 90 degrees.\n\n4. Push yourself back up until your arms are straight.\n\n5. Keep your abs tight and your whole body in a straight line",
+      "imageResId": "push_up"
+    },
+    {
+      "id": 2,
+      "name": "Crunch",
+      "instructions": "1. Lie flat on your back with knees bent and feet flat on the floor.\n\n2. Cross your arms over your chest with palms placed just below your shoulders.\n\n3. Engage your abs, lift your head and shoulders off the floor, and hold for 1–2 counts.\n\n4. Slowly lower yourself back down.",
+      "imageResId": "crunch"
+    },
+    {
+      "id": 3,
+      "name": "Chin Up",
+      "instructions": "1. Grip the bar with a supinated grip (palms facing you), about shoulder-width apart.\n\n2. Keep your chest up, and look up at the bar.\n\n3. Inhale and pull yourself up until your chin is over the bar, or the bar touches your upper chest.\n\n4. Exhale and lower yourself with control until your arms are fully extended.",
+      "imageResId": "chin_up"
+    },
+    {
+      "id": 4,
+      "name": "Bench Press",
+      "instructions": "1. Draw your shoulder blades down to avoid rounded shoulders.\n\n2. Grasp the barbell using an overhand grip with your thumbs on the outside of your closed fist. Your arms are slightly wider than shoulder-width apart and the angle of your upper arms is about 45 degrees to the body.\n\n3. Remove the barbell from the rack, locking your elbows. (Don't move the bar in an arc from the rack directly to the chest position.)\n\n4. Inhale while slowly lowering the bar just above your chest at the nipple line.\n\n5. Exhale as you press the bar above your chest, extending your arms. Don't watch the bar; focus on the ceiling.\n\n6. Lower the bar so it is just above your chest. This is the starting position for the next bench press.",
+      "imageResId": "bench_press"
+    },
+    {
+      "id": 5,
+      "name": "Front Raise",
+      "instructions": "1. Lift the weights upward while inhaling. Your arms are extended, palms facing down, with a slight bend in the elbows to reduce stress on the joints.\n\n2. Pause briefly when your arms are horizontal to the floor at shoulder height.\n\n3. Lower the dumbbells to the starting position (at the thighs) with a slow and controlled motion while exhaling.",
+      "imageResId": "front_raise"
+    },
+    {
+      "id":6,
+      "name": "Hammer Curl",
+      "instructions": "1. Bend at the elbow, lifting the lower arms to pull the weights toward the shoulders. Your upper arms are stationary and the wrists are in line with the forearms.\n\n2. Hold for one second at the top of the movement. Your thumbs will be close to the shoulders and palms facing in, toward the midline of your body.\n\n3. Lower the weights to return to the starting position.",
+      "imageResId": "hammer_curl"
+    },
+    {
+      "id": 7,
+      "name": "Incline Chest Press",
+      "instructions": "1. Sit on the machine with your back firmly against the backrest. Position your feet flat on the floor, shoulder-width apart. Maintain a neutral spine and engage your core muscles for stability.\n\n2. Grasp the handles or grips on either side of the machine. Your palms should be facing forward, and your hands should be shoulder-width apart or slightly wider, depending on your preference.\n\n3. With your arms bent, bring the handles close to your chest. Your elbows should be at about 45 degrees or slightly greater. This is your starting position.\n\n4. Push the handles forward and away from your body, extending your arms fully but not locking your elbows. Exhale as you press the handles away.\n\n5. Slowly bring the handles back to the starting position, maintaining control over the movement. Inhale as you return to the starting position, allowing your chest muscles to stretch.\n\n6. Complete the desired number of repetitions according to your fitness level and goals. Aim for a controlled and smooth motion throughout the exercise.",
+      "imageResId": "incline_chest_press"
+    },
+    {
+      "id": 8,
+      "name": "Iso Lateral Chest Press",
+      "instructions": "1. Sit on the chest press machine, adjust the seat height so that the handles are at chest level.\n\n2. Grasp the handles with a firm grip, palms facing forward.\n\n3. Keep your feet flat on the floor and maintain a neutral spine.\n\n4. Slowly press the handles forward by extending your elbows, keeping your movements controlled and even on both sides.",
+      "imageResId": "iso_lateral_chest_press"
+    },
+    {
+      "id": 9,
+      "name": "Lat Pulldown",
+      "instructions": "1. Sit on the pull down machine with knew pads adjusted to provide support, preventing your body from being pulled out of position.\n\n2. Grip the pull down bar with a pronated grip slightly outside of shoulder width.\n\n3. As you exhale, pull the bar down until it touches your upper chest.\n\n4. Pause and squeeze the back muscles.\n\n5. Slowly bring the bar back to the starting position with the lats fully stretched.",
+      "imageResId": "lat_pulldown"
+    },
+    {
+      "id": 10,
+      "name": "Lying Leg Curl",
+      "instructions": "1. Position yourself on the lying leg curl machine, with your torso flat against the bench and your legs fully extended.\n\n2. Secure your feet under the roller pad, just above your ankles.\n\n3. Curl your legs upwards, contracting your hamstrings until your knees form a 90-degree angle.\n\n4. Slowly lower the weight back down to the initial position.",
+      "imageResId": "lying_leg_curl"
+    },
+    {
+      "id": 11,
+      "name": "Shoulder Press",
+      "instructions": "1. Grab the handles with a pronated (palms facing forward) grip. Alternatively, you could use a neutral (palms facing each other) grip.\n\n2. Place your feet flat on the floor so your heels are under your knees. It will help generate more power.\n\n3. Take a deep breath, tighten your core, and push the handles overhead. However, do not lock out your elbows at the top.\n\n4. Pause at the top and contract your shoulders.\n\n5. Slowly return to the starting position.",
+      "imageResId": "shoulder_press"
+    },
+    {
+      "id": 12,
+      "name": "Triceps Extension",
+      "instructions": "1. Lift the dumbbell directly overhead. Ensure the head stays aligned over the chest, the core remains engaged, and the shoulders are relaxed.\n\n2. Extend both arms fully, then exhale and slowly lower the weight, bringing the weight behind the head by bending at the elbows. Be sure the chest stays aligned over the hips and the back does not arch.\n\n 3.Inhale and reverse the movement once you reach a 90-degree bend at the elbow or slightly further, lifting the weight back to the starting position. The weight should not touch the back of the head when it is in its lowest position.",
+      "imageResId": "triceps_extension"
+    }
+  ]
+}

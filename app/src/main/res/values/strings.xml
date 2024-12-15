@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_home">Home</string>
+    <string name="title_current_workout">Workout</string>
+    <string name="title_history">History</string>
+    <string name="button_add">+</string>
+    <string name="imageview_content_desc_exercise">Exercise Image</string>
+    <string name="button_complete_content_description">Complete Button</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_clear">Clear</string>
+    <string name="content_description_exercise_image">Exercise Image</string>
+    <string name="textView_weight">Weight</string>
+    <string name="textView_weight_kg">KG</string>
+    <string name="button_plus">+</string>
+    <string name="textView_reps">Reps</string>
+    <string name="button_minus">-</string>
+    <string name="textView_reps_with_colon">Reps:</string>
+    <string name="textView_weight_with_colon">Weight:</string>
+    <string name="textView_exercise_name">Exercise name</string>
+    <string name="textView_date">Date</string>
+</resources>
